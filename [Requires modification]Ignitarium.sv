@@ -53,3 +53,5 @@ seq_1.start(env.seqr_1);
 p_seqr amd m_seqr
 //if PSL and PREADY is high can PENEBALE be low
 //if PSEL and PENABLE is high, PREADY is low, can PSLVERR be HIGH
+//What is HPROT in AHB and its usage.
+//What is Exclusive acces? and what happens when multiple master wants to access the same slave in exclusive access?
