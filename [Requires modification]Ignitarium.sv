@@ -55,3 +55,4 @@ p_seqr amd m_seqr
 //if PSEL and PENABLE is high, PREADY is low, can PSLVERR be HIGH
 //What is HPROT in AHB and its usage.
 //What is Exclusive acces? and what happens when multiple master wants to access the same slave in exclusive access?
+//Check clock glitch and system system glitch using assertion.
