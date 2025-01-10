@@ -51,3 +51,5 @@ create() and new()
 raise and drop
 seq_1.start(env.seqr_1);
 p_seqr amd m_seqr
+//if PSL and PREADY is high can PENEBALE be low
+//if PSEL and PENABLE is high, PREADY is low, can PSLVERR be HIGH
